@@ -62,3 +62,26 @@ Edit
 └── README.md
 
 
+
+# Employee Salary Prediction App
+
+This is a Streamlit-based web application that predicts employee salaries using machine learning.
+
+## 🔍 Features
+- Upload employee data
+- View dataset statistics and graphs
+- Predict salary based on input fields
+
+## ⚙️ Tech Stack
+- Python
+- Pandas, Scikit-learn
+- Streamlit
+
+## 🧠 Model
+The model is trained on a dataset using regression algorithms and saved using `pickle`.
+
+## 🚀 Run Locally
+```bash
+streamlit run app.py
+
+
