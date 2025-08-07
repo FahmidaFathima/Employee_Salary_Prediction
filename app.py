@@ -11,7 +11,7 @@ st.title("💼 Salary Estimation App")
 st.markdown("👩‍💻 Predict your expected salary based on company experience!")
 
 # Cute animated gif
-st.image("https://media.giphy.com/media/bolghismAzrpisoqut/giphy.gif",
+st.image("https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzdoZDdhdnJvcjVoOHM5ZjcyNnQxY3JqOGUyd2N6ajZuaDNyb2o1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xm4uYTatdDtbmCsBCw/giphy.gif",
          caption="Let's predict!", use_column_width=True)
 
 # Divider
